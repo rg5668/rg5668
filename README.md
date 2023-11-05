@@ -1,5 +1,4 @@
 # 임건희 *Lim Kun Hee*
-👩‍💻 Frontend Developer  
 🔥 사용자 경험을 개선하는데 열정을 가지고, 정보를 공유하는 것을 좋아하는 Frontend Developer입니다.    
 <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
