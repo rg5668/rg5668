@@ -1,28 +1,19 @@
-<h2>😃 Wellcome 😃</h2>
-
-<!--
-**huisu-noh/huisu-noh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p>Hello, my name is Kunhee and I am front-end developer 😄</p>
-
-<h2>🌱 Stack 🔥</h2>
-
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
+# 임건희 *Lim Kun Hee*
+👩‍💻 Frontend Developer  
+🔥 사용자 경험을 개선하는데 열정을 가지고, 정보를 공유하는 것을 좋아하는 Frontend Developer입니다.    
+<br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-next.js-222222?style=for-the-badge&logo=next.js)
 
+---
+**뷰메진** @Viewmagine <sub><sup>Frontend Developer(2022.09 ~ 2023.11)</sup></sub>  
+**와이즈커머스** @wisecommerce <sub><sup>Frontend Developer(2021.09 ~ 2022.02)</sup></sub>  
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frg5668&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231067CB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div>
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=rg5668)
+
+</div>
