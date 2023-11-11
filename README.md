@@ -3,6 +3,7 @@
 <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/Next-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 **뷰메진** @Viewmagine <sub><sup>Frontend Developer(2022.09 ~ 2023.11)</sup></sub>  
