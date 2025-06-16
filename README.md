@@ -6,6 +6,7 @@
 ![Next](https://img.shields.io/badge/Next-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
+**일만백만** @Viewmagine <sub><sup>Frontend Developer(2023.09 ~ 재직중)</sup></sub>  
 **뷰메진** @Viewmagine <sub><sup>Frontend Developer(2022.09 ~ 2023.11)</sup></sub>  
 **와이즈커머스** @wisecommerce <sub><sup>Frontend Developer(2021.09 ~ 2022.02)</sup></sub>  
 
