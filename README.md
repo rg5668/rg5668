@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://kunhee-lim.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kunhee--lim.vercel.app-2453d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://kunhee-lim.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-2453d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:rg4093@naver.com"><img src="https://img.shields.io/badge/Email-rg4093@naver.com-f5b818?style=for-the-badge&logo=maildotru&logoColor=0b1024" alt="Email" /></a>
 <a href="https://linkedin.com/in/kh5668"><img src="https://img.shields.io/badge/LinkedIn-kh5668-0b1024?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
