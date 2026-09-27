@@ -35,39 +35,6 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 </p>
 
-## 🚀 Featured
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 Clipper</h3>
-      <sub>미디어팀 영상 제작 데스크톱 앱 · Electron · Next.js · 2026.07 –</sub>
-      <p>현장 인터뷰부터 기획·UI 설계·구현까지 맡아 <b>2026.09 미디어팀 10명에게 정식 오픈</b>. 시트·NAS는 그대로 두고 쓰기 순서는 앱이 지키게 설계했습니다.</p>
-      <a href="https://clipper.gemgem.video">🔗 Landing</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 GEMGEM Video</h3>
-      <sub>AI 숏폼 영상 앱 · React Native · Next.js · 2024.11 –</sub>
-      <p>웹 편집기를 새로 짜고, 웹 화면만 띄우던 앱을 React Native 하나로 옮겨 <b>iOS·Android 출시</b>. 영상 내보내기를 서버에서 기기 합성으로 옮겼습니다.</p>
-      <a href="https://apps.apple.com/kr/app/id6747325218">🍎 App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.gemgem.prd">🤖 Google Play</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐞 QA to Jira</h3>
-      <sub>디자인 QA용 Chrome 확장 · 개인 프로젝트 · 2026.05 – 06</sub>
-      <p>버그 하나 올리던 <b>7단계 수작업을 팝업 두 화면으로</b>. 요소를 클릭하면 스크린샷·스타일·콘솔 에러가 모여 Jira 티켓이 됩니다.</p>
-      <a href="https://chromewebstore.google.com/detail/qa-to-jira/eegmfmhfndnjadoacjjlmieklfjehhgp">🧩 Chrome Web Store</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📺 Signage · 🎨 Template Designer</h3>
-      <sub>지점 TV 송출 앱 · 앱 템플릿 제작 도구 · 2024.08 – 2025.09</sub>
-      <p>입사 후 첫 단독 프로젝트 Signage를 WebView에서 React Native로 옮겼고, Fabric.js 템플릿 편집기의 초기 구조와 타임라인·되돌리기를 만들었습니다.</p>
-      <a href="https://kunhee-lim.vercel.app/#signage">🔗 Portfolio</a>
-    </td>
-  </tr>
-</table>
-
 ## 💼 Experience
 
 | 회사 | 역할 | 기간 |
