@@ -14,7 +14,7 @@
 
 ## 👋 About
 
-- 🧭 **현장의 불편을 찾아 제품으로 출시해 온 프론트엔드 개발자**입니다. 입사 후 Signage → GEMGEM 웹·앱 → Clipper까지 이어서 맡았습니다.
+- 🧭 **현장의 불편을 찾아 제품으로 출시해 온 프론트엔드 개발자**입니다.
 - 🛠️ 웹 편집기, React Native 앱(iOS·Android·TV), Electron 데스크톱, Chrome 확장을 만들며 **저장·동기화 같은 내부 로직까지** 구현합니다.
 - 🧑‍✈️ 2024.10부터 Frontend Lead — 기획·디자인·백엔드·AI 리드와 2주 스프린트 목표를 정하고, 티켓을 쪼개 배정·리뷰·머지합니다.
 - 🤖 기획부터 코드까지 AI와 함께 일하되, 결과는 타입 검사·테스트·실제 앱 조작으로 직접 확인합니다.
@@ -37,12 +37,13 @@
 
 ## 💼 Experience
 
-| 회사 | 역할 | 기간 |
-| --- | --- | --- |
-| **일만백만** | Frontend Developer · 2024.10부터 **Frontend Lead** | 2024.08 – 재직 중 |
-| **실리콘브릿지** | Frontend Developer | 2024.03 – 2024.05 |
-| **뷰메진** | Frontend Developer | 2022.09 – 2023.11 |
-| **와이즈커머스** | Frontend Developer | 2021.09 – 2022.02 |
+<table width="100%">
+  <tr><th width="24%" align="left">회사&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th width="48%" align="left">역할&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th width="28%" align="left">기간&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th></tr>
+  <tr><td><b>일만백만</b></td><td>Frontend Developer · 2024.10부터 <b>Frontend Lead</b></td><td>2024.08 – 재직 중</td></tr>
+  <tr><td><b>실리콘브릿지</b></td><td>Frontend Developer</td><td>2024.03 – 2024.05</td></tr>
+  <tr><td><b>뷰메진</b></td><td>Frontend Developer</td><td>2022.09 – 2023.11</td></tr>
+  <tr><td><b>와이즈커머스</b></td><td>Frontend Developer</td><td>2021.09 – 2022.02</td></tr>
+</table>
 
 ## 📊 Activity
 
